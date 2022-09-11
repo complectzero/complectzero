@@ -1,4 +1,4 @@
-- 👋 Hi, Ilia Chirkov
+- 👋 Hi, i'm Ilia Chirkov
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Docker and Service Discovery
 
