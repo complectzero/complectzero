@@ -1,6 +1,6 @@
 - 👋 Hi, i'm Ilia Chirkov
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Docker and Service Discovery
+- 👀 I’m interested in Data Analysis and AI
+- 🌱 I’m currently learning Javascript
 
 <!---
 complectzero/complectzero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
